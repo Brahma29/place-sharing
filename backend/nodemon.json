@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "brahma",
+    "DB_PASSWORD": "brahma",
+    "DB_NAME": "placegram",
+    "JWT_KEY": "aPdSgVkYp3s6v9y$B&E(H+MbQeThWmZq"
+  }
+}
